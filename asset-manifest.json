@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ItwoGlobal/static/css/main.20d6bfef.css",
+    "main.js": "/ItwoGlobal/static/js/main.5214e271.js",
+    "static/js/453.8739ed06.chunk.js": "/ItwoGlobal/static/js/453.8739ed06.chunk.js",
+    "index.html": "/ItwoGlobal/index.html",
+    "main.20d6bfef.css.map": "/ItwoGlobal/static/css/main.20d6bfef.css.map",
+    "main.5214e271.js.map": "/ItwoGlobal/static/js/main.5214e271.js.map",
+    "453.8739ed06.chunk.js.map": "/ItwoGlobal/static/js/453.8739ed06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d6bfef.css",
+    "static/js/main.5214e271.js"
+  ]
+}
